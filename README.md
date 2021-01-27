@@ -19,25 +19,25 @@ PYTHON
 Top 10 #Python GitHub Repositories 
 
 
-1)https://t.co/KIWdPLKFqR
+[Repo 1](https://t.co/epMzsIBnDc)
 
-2)https://t.co/F13Az7rgyI
+[Repo 2](https://t.co/F13Az7rgyI)
 
-3)https://t.co/GfmxIb0OKe
+[Repo 3](https://t.co/GfmxIb0OKe)
 
-4)https://t.co/pUrVZXqlV0
+[Repo 4](https://t.co/pUrVZXqlV0)
 
-5)https://t.co/BOLSG8x19W
+[Repo 5](https://t.co/BOLSG8x19W)
 
-6) https://t.co/0Y0JYPQgv0
+[Repo 6](https://t.co/0Y0JYPQgv0)
 
-7) https://t.co/2OpTTmLAEc
+[Repo 7](https://t.co/2OpTTmLAEc)
 
-8) https://t.co/oXweVU0KjB
+[Repo 8](https://t.co/oXweVU0KjB)
 
-9) https://t.co/CoRQr4lAHS
+[Repo 9](https://t.co/CoRQr4lAHS)
 
-10) https://t.co/epMzsIBnDc
+[Repo 10](https://t.co/KIWdPLKFqR)
 
 
 YOUTUBE CHANNELS 
