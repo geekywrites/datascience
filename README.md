@@ -16,7 +16,16 @@ CURRICULAM
 
 PYTHON 
 
-Top 10 #Python GitHub Repositories 
+Python cheat sheets 
+
+[LINK 1](https://t.co/wsLZEET4VM)
+
+[LINK 2](https://t.co/ACDoksMBmZ)
+
+[LINK 3](https://t.co/GshAjZMaFS)
+
+
+Top 10 Python GitHub Repositories 
 
 
 [Repo 1](https://t.co/epMzsIBnDc)
@@ -42,19 +51,30 @@ Top 10 #Python GitHub Repositories
 
 YOUTUBE CHANNELS 
 Data Science Tutorial – Great Learning
-70. Data Science Full Course – Edureka
-71. Data Science Full Course For Beginners – codebasics
-72. Data Science Full Course – Simplilearn
-73. Learn Data Science Tutorial – freeCodeCamp
-74. R Programming Tutorial – freeCodeCamp
-75. Statistics for Data Science – Great Learning
-76. Statistics – A Full University Course on Data ScienceBasics – freeCodeCamp
-77. Statistics Course for Data Science | StatisticsCourse – MarinStatsLectures-R Programming &Statistics
-78. Mathematics for Machine Learning [Full Course] –Edureka
-79. Machine Learning Data Pre-processing & DataWrangling using Python – The AI University
-80. Data Visualization Tutorial – by Krish Naik
-81. Power BI Tutorial From Beginner to Pro – Avi Singh –PowerBIPro
-82. Data Visualization Tutorial For Beginners-Simplilearn
+
+Data Science Full Course – Edureka
+
+Data Science Full Course For Beginners – codebasics
+
+Data Science Full Course – Simplilearn
+
+Learn Data Science Tutorial – freeCodeCamp
+
+R Programming Tutorial – freeCodeCamp
+
+Statistics for Data Science – Great Learning
+
+Statistics – A Full University Course on Data ScienceBasics – freeCodeCamp
+
+Statistics Course for Data Science | StatisticsCourse – MarinStatsLectures-R Programming &Statistics
+
+Mathematics for Machine Learning [Full Course] –Edureka Machine Learning Data Pre-processing & DataWrangling using Python – The AI University
+
+Data Visualization Tutorial – by Krish Naik
+
+Power BI Tutorial From Beginner to Pro – Avi Singh –PowerBIPro
+
+Data Visualization Tutorial For Beginners-Simplilearn
 
 ONLINE COURSES 
 1. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science??ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-Ohq_UnBIDo.iPWSlPrL30Q&siteID=Vrr1tRSwXGM-Ohq_UnBIDo.iPWSlPrL30Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) – Coursera
