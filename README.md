@@ -1,12 +1,12 @@
-This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into three main Parts.
+This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.
 
-Part 1:- [Roadmap](https://github.com/MrMimic/data-scientist-roadmap) 
+Part 1:- [Roadmap]) 
  
-Part 2:- [Free Online Courses](https://github.com/Developer-Y)
+Part 2:- [Free Online Courses]
 
-Part 3:- [500 Datascience Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+Part 3:- [500 Datascience Projects]
 
-Part 4:- [100+ Free Machine Learning Books](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
+Part 4:- [100+ Free Machine Learning Books]
 
 # Data-Scientist-Roadmap (2021)
 
@@ -2405,7 +2405,7 @@ TensorFlow was originally developed by researchers and engineers working on the 
 [#100+ Free Machine Learning Books](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
 
 
-[#ALL THE CREDITS GOES TO THE RESPECTIVE CREATORS AND THESE RESOURCES ARE COMBINED TOGETHER TO MAKE A WONDERFUL AND COMPACT LEARNING RESOURCE FOR THE DATASCIENCE ENTHUSIASTS]
+#ALL THE CREDITS GOES TO THE RESPECTIVE CREATORS AND THESE RESOURCES ARE COMBINED TOGETHER TO MAKE A WONDERFUL AND COMPACT LEARNING RESOURCE FOR THE DATASCIENCE ENTHUSIASTS
 
 Part 1:- [Roadmap](https://github.com/MrMimic/data-scientist-roadmap) 
  
