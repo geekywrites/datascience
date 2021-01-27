@@ -1,4 +1,4 @@
-# Data-Scientist-Roadmap (2021)
+# 1 Data-Scientist-Roadmap (2021)
 
 I just found this data science skills roadmap, drew by [Swami Chandrasekaran](http://nirvacana.com/thoughts/becoming-a-data-scientist/) on his cool blog.
 
