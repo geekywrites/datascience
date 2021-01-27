@@ -49,7 +49,8 @@ Top 10 Python GitHub Repositories
 [Repo 10](https://t.co/KIWdPLKFqR)
 
 
-YOUTUBE CHANNELS 
+YOUTUBE CHANNELS
+
 Data Science Tutorial – Great Learning
 
 Data Science Full Course – Edureka
@@ -76,6 +77,30 @@ Power BI Tutorial From Beginner to Pro – Avi Singh –PowerBIPro
 
 Data Visualization Tutorial For Beginners-Simplilearn
 
+
+AI
+
+CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015
+6.034 Artificial Intelligence, MIT OCW
+CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University
+15-780 - Graduate Artificial Intelligence, Spring 14, CMU
+CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington
+CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC (YouTube)
+CS 4804: Introduction to Artificial Intelligence, Fall 2016
+CS 5804: Introduction to Artificial Intelligence, Spring 2015
+Artificial Intelligence - IIT Kharagpur
+Artificial Intelligence - IIT Madras
+Artificial Intelligence(Prof.P.Dasgupta) - IIT Kharagpur
+MOOC - Intro to Artificial Intelligence - Udacity
+MOOC - Artificial Intelligence for Robotics - Udacity
+Graduate Course in Artificial Intelligence, Autumn 2012 - University of Washington
+Agent-Based Systems 2015/16- University of Edinburgh
+Informatics 2D - Reasoning and Agents 2014/15- University of Edinburgh
+Artificial Intelligence - Hochschule Ravensburg-Weingarten
+Deductive Databases and Knowledge-Based Systems - Technische Universität Braunschweig, Germany
+Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras
+Semantic Web Technologies by Dr. Harald Sack - HPI
+Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack - HP
 ONLINE COURSES 
 1. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science??ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-Ohq_UnBIDo.iPWSlPrL30Q&siteID=Vrr1tRSwXGM-Ohq_UnBIDo.iPWSlPrL30Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) – Coursera
 2. Become a Data Scientist – Udacity
