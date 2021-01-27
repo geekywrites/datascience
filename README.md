@@ -1,4 +1,4 @@
-This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.They are
+This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.  They are
 
 Part 1:- [Roadmap]) 
  
@@ -8,7 +8,7 @@ Part 3:- [500 Datascience Projects]
 
 Part 4:- [100+ Free Machine Learning Books]
 
-This repositary is a combination of different resources lying scattered resources all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Datascience. I hope it helps many people who could not afford a large fee for their education. This repositary shall be constantly updated on the basics of availability of new free resources.
+This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Datascience. I hope it helps many people who could not afford a large fee for their education. This repositary shall be constantly updated on the basics of availability of new free resources.
 
 If you guys like this Repo, please SHARE with everyone who are in need of these materials. 
 
@@ -19,8 +19,6 @@ For Constant Updates, Follow me on [Twitter](https://twitter.com/therealsreehari
 ![roadmap-picture](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
 
 ****
-
-# THEORY 
 
 # 1_ Fundamentals
 
