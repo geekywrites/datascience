@@ -1,6 +1,61 @@
 # AI-ML-DL-NLP-COMPUTER-VISION-AND-OTHER-DATASCIENCE-RESOURCES
 This is a Repository Consisting of all Free and Helpful learning resources for Datascience.The main motive of this repository is to help people to learn data science for free and enrich their knowledge.So please don't forget to SHARE this Repo with your friends circle and to those data science ethusiasts.
 
+CURRICULAM 
+
+1. Programming Skills (Python & R)
+2. Statistics or Probability
+3. Machine Learning
+4. Multivariate Calculus and Linear Algebra
+5. Data wrangling.
+6. Data Visualization.
+7. Database Management
+8. BigData
+
+
+
+PYTHON 
+
+Top 10 #Python GitHub Repositories 
+
+
+1)https://t.co/KIWdPLKFqR
+
+2)https://t.co/F13Az7rgyI
+
+3)https://t.co/GfmxIb0OKe
+
+4)https://t.co/pUrVZXqlV0
+
+5)https://t.co/BOLSG8x19W
+
+6) https://t.co/0Y0JYPQgv0
+
+7) https://t.co/2OpTTmLAEc
+
+8) https://t.co/oXweVU0KjB
+
+9) https://t.co/CoRQr4lAHS
+
+10) https://t.co/epMzsIBnDc
+
+
+YOUTUBE CHANNELS 
+Data Science Tutorial – Great Learning
+70. Data Science Full Course – Edureka
+71. Data Science Full Course For Beginners – codebasics
+72. Data Science Full Course – Simplilearn
+73. Learn Data Science Tutorial – freeCodeCamp
+74. R Programming Tutorial – freeCodeCamp
+75. Statistics for Data Science – Great Learning
+76. Statistics – A Full University Course on Data ScienceBasics – freeCodeCamp
+77. Statistics Course for Data Science | StatisticsCourse – MarinStatsLectures-R Programming &Statistics
+78. Mathematics for Machine Learning [Full Course] –Edureka
+79. Machine Learning Data Pre-processing & DataWrangling using Python – The AI University
+80. Data Visualization Tutorial – by Krish Naik
+81. Power BI Tutorial From Beginner to Pro – Avi Singh –PowerBIPro
+82. Data Visualization Tutorial For Beginners-Simplilearn
+
 ONLINE COURSES 
 1. [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science??ranMID=40328&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-Ohq_UnBIDo.iPWSlPrL30Q&siteID=Vrr1tRSwXGM-Ohq_UnBIDo.iPWSlPrL30Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Vrr1tRSwXGM) – Coursera
 2. Become a Data Scientist – Udacity
