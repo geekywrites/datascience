@@ -1,6 +1,6 @@
 This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.  They are
 
-Part 1:- [Roadmap]) 
+Part 1:- [Roadmap] 
  
 Part 2:- [Free Online Courses]
 
