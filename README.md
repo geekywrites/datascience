@@ -1,8 +1,12 @@
+This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into three main Parts.
+
+Part 1:- [Roadmap](https://github.com/MrMimic/data-scientist-roadmap) 
+ 
+Part 2:- [Free Online Courses](https://github.com/Developer-Y)
+
+Part 3:- [500 Datascience Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
 # Data-Scientist-Roadmap (2021)
-
-I just found this data science skills roadmap, drew by [Swami Chandrasekaran](http://nirvacana.com/thoughts/becoming-a-data-scientist/) on his cool blog.
-
-****
 
 ![roadmap-picture](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
 
