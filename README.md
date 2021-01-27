@@ -6,6 +6,8 @@ Part 2:- [Free Online Courses](https://github.com/Developer-Y)
 
 Part 3:- [500 Datascience Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
+Part 4:- [100+ Free Machine Learning Books](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
+
 # Data-Scientist-Roadmap (2021)
 
 ![roadmap-picture](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
@@ -2399,3 +2401,16 @@ TensorFlow was originally developed by researchers and engineers working on the 
 | 69.   | 100 + Computer vision Algorithm Implementation               | https://bit.ly/3rWgrzF              |
 | 70.   | 80 + Computer vision Learning code                           | https://bit.ly/3hKCpkm              |
 | 71.   | Deep learning Treasure                                       | https://bit.ly/359zLQb              |
+
+[#100+ Free Machine Learning Books](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
+
+
+[#ALL THE CREDITS GOES TO THE RESPECTIVE CREATORS AND THESE RESOURCES ARE COMBINED TOGETHER TO MAKE A WONDERFUL AND COMPACT LEARNING RESOURCE FOR THE DATASCIENCE ENTHUSIASTS]
+
+Part 1:- [Roadmap](https://github.com/MrMimic/data-scientist-roadmap) 
+ 
+Part 2:- [Free Online Courses](https://github.com/Developer-Y)
+
+Part 3:- [500 Datascience Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
+Part 4:- [100+ Free Machine Learning Books](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
