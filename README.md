@@ -1001,7 +1001,7 @@ Most of informatics systems already support Python, without installing anything.
 
 R is a programming language specialized in statistics and mathematical visualizations.
 
-I can be used withs manually created scripts launched in the terminal, or directly in the R console.
+It can be used with manually created scripts using the terminal, or directly in the R console.
 
 ### Installation
 
