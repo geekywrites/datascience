@@ -12,7 +12,7 @@ This repository is a combination of different resources lying scattered all over
 
 If you guys like this Repo, please SHARE with everyone who are in need of these materials. 
 
-For Constant Updates, Follow me on [Twitter](https://twitter.com/therealsreehari)
+For Constant Updates, Follow me on [Twitter](https://twitter.com/geekywrites)
 
 Give a 🌟 if it's Useful and Share with other Datascience Enthusiasts.
 
