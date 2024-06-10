@@ -82,7 +82,7 @@ The main application of relational algebra is providing a theoretical foundation
 In SQL language, a natural junction between two tables will be done if :
 
 * At least one column has the same name in both tables
-* Theses two columns have the same data type
+* These two columns have the same data type
     * CHAR (character)
     * INT (integer)
     * FLOAT (floating point numeric data)
@@ -292,7 +292,7 @@ Extensible Markup Language (XML) is a markup language that defines a set of rule
 
 ## 15_ NoSQL
 
-noSQL is oppsed to relationnal databases (stand for __N__ot __O__nly __SQL__). Data are not structured and there's no notion of keys between tables.
+noSQL is opposed to relational databases (stand for __N__ot __O__nly __SQL__). Data are not structured and there's no notion of keys between tables.
 
 Any kind of data can be stored in a noSQL database (JSON, CSV, ...) whithout thinking about a complex relationnal scheme.
 
@@ -709,13 +709,13 @@ __One Tailed Test__:
 
 This is a test for Hypothesis, where the rejection region is only one side of the sampling distribution. The rejection region may be in right tail end or in the left tail end.
 
-The idea is if we say our level of significance is 5% and we consider a hypothesis "Hieght of Boys in a class is <=6 ft". We consider the hypothesis true if atmost 5% of our population are more than 6 feet. So, this will be one-tailed as the test condition only restricts one tail end, the end with hieght > 6ft. 
+The idea is if we say our level of significance is 5% and we consider a hypothesis "Height of Boys in a class is <=6 ft". We consider the hypothesis true if atmost 5% of our population are more than 6 feet. So, this will be one-tailed as the test condition only restricts one tail end, the end with height > 6ft. 
 
 ![Two Tailed](https://i0.wp.com/www.real-statistics.com/wp-content/uploads/2012/11/two-tailed-significance-testing.png)
 
 In this case, the rejection region extends at both tail ends of the distribution.
 
-The idea is if we say our level of significance is 5% and we consider a hypothesis "Hieght of Boys in a class is !=6 ft".
+The idea is if we say our level of significance is 5% and we consider a hypothesis "Height of Boys in a class is !=6 ft".
 
 Here, we can accept the NULL hyposthesis iff atmost 5% of the population is less than or greater than 6 feet. So, it is evident that the crirtical region will be at both tail ends and the region is 5% / 2 = 2.5% at both ends of the distribution. 
 
@@ -1070,7 +1070,7 @@ To __open a CSV file__ in Python, just open the file as usual :
 
 ### How to read it ?
 
-Most of the time, you will parse this file line by line and do whatever you want on this line. If you want to store data to use them later, build lists or dictionnaries.
+Most of the time, you will parse this file line by line and do whatever you want on this line. If you want to store data to use them later, build lists or dictionaries.
 
 To read such a file row by row, you can use :
 
@@ -1125,7 +1125,7 @@ You also can install it directly from the core (see 21_install_pkgs.py)
 
 ### Definition
 
-Machine Learning is part of the Artificial Intelligences study. It concerns the conception, devloppement and implementation of sophisticated methods, allowing a machine to achieve really hard tasks, nearly impossible to solve with classic algorithms.
+Machine Learning is part of the Artificial Intelligence study. It concerns the conception, development and implementation of sophisticated methods, allowing a machine to achieve really hard tasks, nearly impossible to solve with classic algorithms.
 
 Machine learning mostly consists of three algorithms:
 
@@ -1142,9 +1142,9 @@ Machine learning mostly consists of three algorithms:
 
 ## 2_ Numerical var
 
-Variables which can take continous integer or real values. They can take infinite values.
+Variables which can take continuous integer or real values. They can take infinite values.
 
-These types of variables are mostly used for features which involves measurements. For example, hieghts of all students in a class.
+These types of variables are mostly used for features which involves measurements. For example, heights of all students in a class.
 
 ## 3_ Categorical var
 
@@ -1194,7 +1194,7 @@ If we train a supervised machine learning model using a dataset, the model captu
 
 To know how well the model performs, we must train and test the model on different datasets. The dataset we train the model on is called Training set, and the dataset we test the model on is called the test set.
 
-We normally split the provided dataset to create the training and test set. The ratio of splitting is majorly: 3:7 or 2:8 depending on the data, larger being the trining data.
+We normally split the provided dataset to create the training and test set. The ratio of splitting is majorly: 3:7 or 2:8 depending on the data, larger being the training data.
 
 #### sklearn.model_selection.train_test_split is used for splitting the data.
 
@@ -1207,7 +1207,7 @@ Syntax:
 
 ## 8_ Classifiers
 
-Classification is the most important and most common machine learning problem. Classification problems can be both suprvised and unsupervised problems.
+Classification is the most important and most common machine learning problem. Classification problems can be both supervised and unsupervised problems.
 
 The classification problems involve labelling data points to belong to a particular class based on the feature set corresponding to the particluar data point.
 
@@ -1217,7 +1217,7 @@ Machine learning classification techniques involve: Logistic Regressions, SVMs, 
 
 ## 9_ Prediction
 
-The output generated by a machine learning models for a particuolar problem is called its prediction. 
+The output generated by a machine learning models for a particular problem is called its prediction. 
 
 There are majorly two kinds of predictions corresponding to two types of problen: 
 
@@ -1225,15 +1225,15 @@ There are majorly two kinds of predictions corresponding to two types of problen
 
 2. Regression
 
-In classiication, the prediction is mostly a class or label, to which a data points belong
+In classification, the prediction is mostly a class or label, to which a data points belong
 
-In regression, the prediction is a number, a continous a numeric value, because regression problems deal with predicting the value. For example, predicting the price of a house.
+In regression, the prediction is a number, a continuous a numeric value, because regression problems deal with predicting the value. For example, predicting the price of a house.
 
 ## 10_ Lift
 
 ## 11_ Overfitting
 
-Often we train our model so much or make our model so complex that our model fits too tghtly with the training data.
+Often we train our model so much or make our model so complex that our model fits too tightly with the training data.
 
 The training data often contains outliers or represents misleading patterns in the data. Fitting the training data with such irregularities to deeply cause the model to lose its generalization. The model performs very well on the training set but not so good on the test set. 
 
@@ -1250,7 +1250,7 @@ Bias is the difference between the average prediction of our model and the corre
 Variance is the variability of model prediction for a given data point or a value which tells us spread of our data. Model with high variance pays a lot of attention to training data and does not generalize on the data which it hasn’t seen before. As a result, such models perform very well on training data but has high error rates on test data.
 
 
-Basically High variance causes overfitting and high bias causes underfitting. We want our model to have low bias and low variance to perform perfectly. We need to avoid a model with higher variance and high bias
+Basically High variance causes overfitting and high bias causes underfitting. We want our model to have low bias and low variance to perform perfectly. We need to avoid a model with high variance and high bias
 
 ![bias&variance](https://community.alteryx.com/t5/image/serverpage/image-id/52874iE986B6E19F3248CF?v=1.0)
 
