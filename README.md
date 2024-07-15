@@ -1,6 +1,6 @@
-This repository is a compilation of resources needed to learn Datascience. 
+This repository is a compilation of all the resources needed to learn Data Science. 
 
-This repository is divided into Four main Parts.  
+It's divided into 4 main parts.  
 
 Part 1:- [Roadmap] 
  
@@ -10,7 +10,7 @@ Part 3:- [500 Datascience Projects]
 
 Part 4:- [100+ Free Machine Learning Books]
 
-Give a 🌟 if it's useful and share with other Datascience Enthusiasts.
+Give a 🌟 if it's useful and share with other Data Science Enthusiasts.
 
 # Data-Scientist-Roadmap (2021)
 
