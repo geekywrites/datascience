@@ -1,4 +1,6 @@
-This Repository Consists of Free Resources needed for a person to learn Datascience from the beginning to end. This repository is divided into Four main Parts.  They are
+This repository is a compilation of resources needed to learn Datascience. 
+
+This repository is divided into Four main Parts.  
 
 Part 1:- [Roadmap] 
  
@@ -8,13 +10,7 @@ Part 3:- [500 Datascience Projects]
 
 Part 4:- [100+ Free Machine Learning Books]
 
-This repository is a combination of different resources lying scattered all over the internet. The reason for making such an repository is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Datascience. I hope it helps many people who could not afford a large fee for their education. This repository shall be constantly updated on the basics of availability of new free resources.
-
-If you guys like this Repo, please SHARE with everyone who are in need of these materials. 
-
-For Constant Updates, Follow me on [Twitter](https://twitter.com/geekywrites)
-
-Give a 🌟 if it's Useful and Share with other Datascience Enthusiasts.
+Give a 🌟 if it's useful and share with other Datascience Enthusiasts.
 
 # Data-Scientist-Roadmap (2021)
 
