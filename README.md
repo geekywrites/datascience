@@ -1,13 +1,3 @@
-It's divided into 4 main parts.  
-
-Part 1:- [Roadmap] 
- 
-Part 2:- [Free Online Courses]
-
-Part 3:- [500 Datascience Projects]
-
-Part 4:- [100+ Free Machine Learning Books]
-
 Give a 🌟 if it's useful and share with other Data Science Enthusiasts.
 
 # Data-Scientist-Roadmap (2021)
