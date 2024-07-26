@@ -1,5 +1,3 @@
-This repository is a compilation of all the resources needed to learn Data Science. 
-
 It's divided into 4 main parts.  
 
 Part 1:- [Roadmap] 
