@@ -2404,3 +2404,5 @@ Part 2:- [Free Online Courses](https://github.com/Developer-Y)
 Part 3:- [500 Datascience Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 Part 4:- [100+ Free Machine Learning Books](https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html)
+
+Part 5:- [10 Machine Learning Books for Beginners](https://www.appliedaicourse.com/blog/machine-learning-books/)
