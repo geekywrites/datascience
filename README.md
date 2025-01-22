@@ -2226,6 +2226,7 @@ TensorFlow was originally developed by researchers and engineers working on the 
 	- [Web Information Retrieval (Proff. L. Becchetti - A. Vitaletti)](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr)
 	- [Big Data Systems (WT 2019/20) - Prof. Dr. Tilmann Rabl - HPI](https://www.tele-task.de/series/1286/)
 	- [Distributed Data Analytics (WT 2017/18) - Dr. Thorsten Papenbrock - HPI](https://www.tele-task.de/series/1179/)
+        - [Reinforcement Learning - An Introduction - Applied AI Blogs](https://www.appliedaicourse.com/blog/what-is-reinforcement-learning/)
 
 - **Probability & Statistics**
 
